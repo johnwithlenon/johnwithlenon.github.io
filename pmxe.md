@@ -8,7 +8,7 @@ description: "PmxEditor English version translated from Japanese version"
 # About PmxEditor English version
 {: .fs-9 }
 
-PmxEditor English version is an un-official translated version of the original PmxEditor version. The original version is in Japanese language, and it's really hard to use worldwide. That's why I translated it into English.
+PmxEditor English version is an un-official translated version of the original PmxEditor version. The original version is in Japanese language, and it's really hard to use worldwide. That's why I translated it.
 
 That mean I'm NOT the author of PmxEditor. The original author is KyokuhokuP (極北P). I only translate it from Japanese to English.<br />
 (But actually I didn't translate much, because Inochi-PM did almost the job)

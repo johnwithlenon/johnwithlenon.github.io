@@ -10,12 +10,10 @@ description: "PmxEditor English version translated from Japanese version"
 
 PmxEditor English version is an un-official translated version of the original PmxEditor version. The original version is in Japanese language, and it's really hard to use worldwide. That's why I translated it into English.
 
-That mean I'm NOT the author of PmxEditor. The original author is KyokuhokuP (極北P). I only translate it from Japanese to English.
-
+That mean I'm NOT the author of PmxEditor. The original author is KyokuhokuP (極北P). I only translate it from Japanese to English.<br />
 (But actually I didn't translate much, because Inochi-PM did almost the job)
 
-Original version of PmxEditor v0273 (Japanese version) can be found here:
-
+Original version of PmxEditor v0273 (Japanese version) can be found here:<br />
 [https://kkhk22.seesaa.net/](https://kkhk22.seesaa.net/){: target="_blank" rel="noopener"}
 (Click "ダウンロード" on the left to go to the download page)
 

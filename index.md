@@ -16,7 +16,6 @@ That mean I'm NOT the author of PmxEditor. The original author is KyokuhokuP (�
 (But actually I didn't translate much, because Inochi-PM did almost the job)
 
 Original version of PmxEditor v0273 (Japanese version) can be found here:
-{: .fs-6 .fw-300 }
 
 [https://kkhk22.seesaa.net/](https://kkhk22.seesaa.net/){: target="_blank" rel="noopener"}
 (Click "ダウンロード" on the left to go to the download page)
@@ -26,6 +25,5 @@ Original version of PmxEditor v0273 (Japanese version) can be found here:
 ## Feedback
 
 You can give feedback here:
-{: .fs-6 .fw-300 }
 
 [Feedback](https://docs.google.com/forms/d/e/1FAIpQLScFE6HNyDqaISYVAyrQ0jwRXhYNT1cQ71syuoQg_Gy4B8_2dA/viewform){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" rel="noopener"}

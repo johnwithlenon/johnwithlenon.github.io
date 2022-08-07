@@ -64,7 +64,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Contact me on Twitter":
+  "<i class="fa fa-twitter"></i> Contact me on Twitter":
     - "//twitter.com/johnwithlenon"
 
 # Makes Aux links open in a new tab. Default is false

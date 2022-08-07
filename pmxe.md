@@ -21,6 +21,6 @@ Original version of PmxEditor v0273 (Japanese version) can be found here:<br />
 
 ## Feedback
 
-You can give feedback to this translated program here:
+You can give feedback for this translated program here:
 
 [Feedback](https://docs.google.com/forms/d/e/1FAIpQLScFE6HNyDqaISYVAyrQ0jwRXhYNT1cQ71syuoQg_Gy4B8_2dA/viewform){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank" rel="noopener"}

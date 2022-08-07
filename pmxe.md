@@ -13,7 +13,7 @@ PmxEditor English version is an un-official translated version of the original P
 That mean I'm NOT the author of PmxEditor. The original author is KyokuhokuP (極北P). I only translate it from Japanese to English.<br />
 (But actually I didn't translate much, because Inochi-PM did almost the job)
 
-Download link: [https://www.deviantart.com/johnwithlenon/art/PmxEditor-v0273-English-Version-unofficial-trans-925125044](Deviantart){: target="_blank" rel="noopener"}
+Download link: [<b>Deviantart</b>](https://www.deviantart.com/johnwithlenon/art/PmxEditor-v0273-English-Version-unofficial-trans-925125044){: target="_blank" rel="noopener"}
 
 Original version of PmxEditor v0273 (Japanese version) can be found here:<br />
 [https://kkhk22.seesaa.net/](https://kkhk22.seesaa.net/){: target="_blank" rel="noopener"}

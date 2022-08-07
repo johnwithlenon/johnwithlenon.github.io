@@ -33,3 +33,4 @@ You can give feedback for this translated program here:
 
 - PmxView > Edit > Weight > Anchor Editor (F10)
 - PmxView > E (F4) > SPEF tab 
+- PmxEditor > Joint > changing JNT Type

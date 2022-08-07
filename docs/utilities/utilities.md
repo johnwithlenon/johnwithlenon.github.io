@@ -6,6 +6,8 @@ has_children: true
 permalink: docs/utilities
 nav_exclude: true
 search_exclude: true
+nav_exclude: true
+search_exclude: true
 ---
 
 # Utilities

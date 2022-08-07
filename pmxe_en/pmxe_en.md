@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Home
-nav_order: 1
+nav_order: 2
 description: "PmxEditor English version translated from Japanese version"
-permalink: /
 ---
 
 # About PmxEditor English version

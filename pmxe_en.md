@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: PmxEditor English
 nav_order: 1
 description: "PmxEditor English version translated from Japanese version"
 ---

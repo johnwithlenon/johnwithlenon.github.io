@@ -6,5 +6,5 @@ description: "Johny's personal webpage"
 permalink: /
 ---
 
-# About PmxEditor English version
+# JohnyL's personal webpage
 {: .fs-9 }

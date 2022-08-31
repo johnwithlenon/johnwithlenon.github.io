@@ -6,7 +6,7 @@ description: "PmxEditor English version translated from Japanese version"
 ---
 
 # About PmxEditor English version
-{: .fs-9 }
+{: .no_toc }
 
 PmxEditor English version is an un-official translated version of the original PmxEditor version. The original version is in Japanese language, and it's really hard to use worldwide. That's why I translated it.
 

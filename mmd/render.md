@@ -1,7 +1,6 @@
 ---
 layout: default
 title: MMD Render Tips
-nav_order: 0
 description: "MMD Render Tips"
 parent: MMD
 ---

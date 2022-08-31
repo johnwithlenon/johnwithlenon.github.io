@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MMD Render Tips
+title: Render Tips
 description: "MMD Render Tips"
 parent: MMD
 ---

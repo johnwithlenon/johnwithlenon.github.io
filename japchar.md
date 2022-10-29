@@ -8,22 +8,22 @@ description: "Japanese characters"
 # Some Japanese characters which looks similar but they are different characters
 {: .no_toc }
 
-っ	つ
-ュ	ユ
-氵	シ	ツ
-ャ	ヤ
-冫	ン	ソ
-ヶ"	ゲ
-ヘ	へ
-才	オ
-力	カ	
-口	ロ	
-一	ー	ー
-工	エ	
-卜	ト	
-二	ニ	
-八	ハ
-千	チ
+っ	つ<br>
+ュ	ユ<br>
+氵	シ	ツ<br>
+ャ	ヤ<br>
+冫	ン	ソ<br>
+ヶ"	ゲ<br>
+ヘ	へ<br>
+才	オ<br>
+力	カ<br>
+口	ロ<br>
+一	ー	ー<br>
+工	エ<br>
+卜	ト<br>
+二	ニ<br>
+八	ハ<br>
+千	チ<br>
 
 More: [https://www.sljfaq.org/afaq/similar-kana.html](https://www.sljfaq.org/afaq/similar-kana.html){: target="_blank" rel="noopener"}
 

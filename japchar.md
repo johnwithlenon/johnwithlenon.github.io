@@ -7,6 +7,7 @@ description: "Japanese characters"
 
 # Some Japanese characters which looks similar but they are different characters
 {: .no_toc }
+<br>(It is called "anti gaijin shenanigans")
 
 っ/つ<br>
 ュ/ユ<br>

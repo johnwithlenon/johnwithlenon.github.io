@@ -15,7 +15,7 @@ Update: The above command could reduce the quality of the video. So I'm using th
 **ffmpeg.exe -i input.avi -vf curves=psfile=file.acv output.mp4**<br>
 Link to the curves file (place it in the same location as ffmpeg): [file.acv](https://mega.nz/file/dUNgXTDC#0r3fzkc6mccffahHje7prH5276ugDdEBpctFy7iO0p0){: target="_blank" rel="noopener"}<br>
 
-To prevent quality loss, and with recommended settings for YouTube, use this ("-b:v 15M -r 60 -g 30" is 1080p60fps. For 4K60fps, change "15M" to "67M"):<br>
+To prevent quality loss, and with recommended settings for YouTube, use this ("**-b:v 15M -r 60 -g 30**" is 1080p60fps. For 4K60fps, change **15M** to **67M**):<br>
 **ffmpeg.exe -i input.avi -c:v libx264 -b:a 384k -ac 2 -preset slow -crf 18 -profile:v high -bf 2 -pix_fmt yuv420p -movflags +faststart -threads 4 -cpu-used 0 -b:v 15M -r 60 -g 30 -coder 1 -vf curves=psfile=file.acv,scale=out_color_matrix=bt709 -color_primaries bt709 -color_trc bt709 -colorspace bt709 output.mp4**<br>
 Sources:<br>
 https://www.reddit.com/r/ffmpeg/comments/r1qwyy/best_streaming_settings_for_youtube/<br>

@@ -17,10 +17,11 @@ Link to the curves file (place it in the same location as ffmpeg): [file.acv](ht
 
 To prevent quality loss, and with recommended settings for YouTube, use this ("**-b:v 15M -r 60 -g 30**" is 1080p60fps. For 4K60fps, change **15M** to **67M**):<br>
 **ffmpeg.exe -i input.avi -c:v libx264 -b:a 384k -ac 2 -preset slow -crf 18 -profile:v high -bf 2 -pix_fmt yuv420p -movflags +faststart -threads 4 -cpu-used 0 -b:v 15M -r 60 -g 30 -coder 1 -vf curves=psfile=file.acv,scale=out_color_matrix=bt709 -color_primaries bt709 -color_trc bt709 -colorspace bt709 output.mp4**<br>
-Sources:<br>
-https://www.reddit.com/r/ffmpeg/comments/r1qwyy/best_streaming_settings_for_youtube/<br>
-https://gist.github.com/mikoim/27e4e0dc64e384adbcb91ff10a2d3678#gistcomment-2859601<br>
-https://support.google.com/youtube/answer/1722171<br>
-
+If you want to use GPU for faster encoding, replace "**libx264**" with "**h264_nvenc**" (for NVIDIA) or "**h264_amf**" (for AMD).<br>
 
 FFmpeg also helps your video have less file size.
+
+More information about recommended YouTube settings:<br>
+[https://www.reddit.com/r/ffmpeg/comments/r1qwyy/best_streaming_settings_for_youtube/](https://www.reddit.com/r/ffmpeg/comments/r1qwyy/best_streaming_settings_for_youtube/){: target="_blank" rel="noopener"}<br>
+[https://gist.github.com/mikoim/27e4e0dc64e384adbcb91ff10a2d3678](https://gist.github.com/mikoim/27e4e0dc64e384adbcb91ff10a2d3678){: target="_blank" rel="noopener"}<br>
+[https://support.google.com/youtube/answer/1722171](https://support.google.com/youtube/answer/1722171){: target="_blank" rel="noopener"}<br>

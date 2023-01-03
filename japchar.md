@@ -25,6 +25,7 @@ description: "Japanese characters"
 二/ニ<br>
 八/ハ<br>
 千/チ<br>
+亻/イ<br>
 
 More: [https://www.sljfaq.org/afaq/similar-kana.html](https://www.sljfaq.org/afaq/similar-kana.html){: target="_blank" rel="noopener"}
 

@@ -31,6 +31,9 @@ description: "Japanese characters"
 千/チ<br>
 亻/イ<br>
 ぇ/え<br>
+"Small" letters (known as "youon") vs "big" letters:<br>
+ぁぃぅぇぉっゃゅょゎァィゥェォヵㇰヶㇱㇲッㇳㇴㇵㇶㇷㇷ゚ㇸㇹㇺャュョㇻㇼㇽㇾㇿヮ<br>
+あいうえおつやゆよわアイウエオカクケシスツトヌハヒフプヘホムヤユヨラリルレロワ<br>
 
 More: [https://www.sljfaq.org/afaq/similar-kana.html](https://www.sljfaq.org/afaq/similar-kana.html){: target="_blank" rel="noopener"}
 

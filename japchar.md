@@ -10,8 +10,12 @@ description: "Japanese characters"
 <br>(It is called "anti gaijin shenanigans")
 
 っ/つ<br>
+ょ/よ<br>
 ュ/ユ<br>
 氵/シ/ツ<br>
+ン/ソ<br>
+ゃ/や<br>
+ゅ/ゆ<br>
 ャ/ヤ<br>
 冫/ン/ソ<br>
 ヶ"/ゲ<br>

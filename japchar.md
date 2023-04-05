@@ -30,6 +30,7 @@ description: "Japanese characters"
 千/チ<br>
 亻/イ<br>
 ぇ/え<br>
+夕/タ<br>
 "Small" letters (known as "youon") vs "big" letters:<br>
 ぁぃぅぇぉっゃゅょゎァィゥェォヵㇰヶㇱㇲッㇳㇴㇵㇶㇷㇷ゚ㇸㇹㇺャュョㇻㇼㇽㇾㇿヮ<br>
 あいうえおつやゆよわアイウエオカクケシスツトヌハヒフプヘホムヤユヨラリルレロワ<br>

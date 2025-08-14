@@ -18,6 +18,7 @@ description: "Japanese characters"
 ゅ/ゆ<br>
 ャ/ヤ<br>
 ヶ"/ゲ<br>
+ヵ゛/ガ<br>
 ヘ/へ<br>
 才/オ<br>
 力/カ<br>
